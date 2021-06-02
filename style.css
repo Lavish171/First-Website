@@ -1,0 +1,16 @@
+.btn-danger
+{
+    background-color: green;
+}
+
+.btn-danger:hover{
+    background-color: black;
+}
+.col
+{
+    background-color: grey;
+    /*in this way we can give the color to our col,2px for border width,solid for the border and green
+    for the border color*/
+
+    border:2px solid green;
+}
